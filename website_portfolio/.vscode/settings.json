@@ -1,0 +1,8 @@
+{
+	"window.zoomLevel": 1,
+	"editor.fontSize": 18,
+	"workbench.iconTheme": "eq-material-theme-icons-darker",
+	"liveServer.settings.port": 5501,
+	"terminal.integrated.fontSize": 18,
+	"editor.tabSize": 2
+}
