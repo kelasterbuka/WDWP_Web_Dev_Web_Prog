@@ -4,7 +4,12 @@ module.exports = {
     './public/index.html',
   ],
   theme: {
-    extend: {},
+    extend: {
+      letterSpacing: {
+        ngempit:'-0.5em',
+        ngangkang: '.5em',
+      }
+    },
   },
   plugins: [],
 }
